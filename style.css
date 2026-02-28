@@ -33,6 +33,11 @@ header {
   color: #6C5CE7;
 }
 
+img {
+  width:60px;
+  height:60px;
+}
+
 #authState {
   font-size: 0.9rem;
 }
